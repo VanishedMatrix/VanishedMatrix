@@ -1,25 +1,8 @@
 # Kodaik 10 🚀
 
 > ⚠️ **Account Migration Notice**
-> This project has migrated from my old account (**matrixvanish**) to my new account (**vanishedmatrix**). This is a legitimate account transfer by the original secondary developer. GitHub, please do not ban or flag this account this is simply a manual move to a new username!
+> This project has migrated from my old account (**matrixvanish**) to my new account (**vanishedmatrix**). This is a legitimate account transfer. GitHub, please do not ban or flag this account—this is simply a manual move to a new username!
 
 Kodaik 10 is a lightweight, heavily modified custom version of **Windows 10 LTSC** designed for stripped-down, high-performance environments. This repository hosts essential automation scripts and system tools to optimize and configure the OS installation.
 
----
-
-## 🛠️ My Contributions
-
-As a secondary developer alongside **missiletechradar**, my focus was on system deployment intelligence and automated post-installation configuration. 
-
-### `detect_drive`
-A  C++ script / system utility engineered to scan hardware and identify drive environments dynamically.
-* **Drive Type Detection:** Automatically determines whether connected storage devices are SSDs, NVMEs, or HDDs.
-* **Windows Partition Locator:** Scans connected drives to find exactly which partition hosts the active Windows directory.
-* **OS Version Identifier:** Parses system files on the target drive to extract and report the specific Windows version and build metadata.
-
-### `MTR Settings`
-A comprehensive automated Batch script built to fine-tune the Kodaik 10.
-* **OS Customization:** Automatically adjusts registry tweaks, disables telemetry, and strips unnecessary background processes native to Windows 10 LTSC.
-* **Performance Optimization:** Tweaks system policies to ensure Kodaik 10 maintains its lightweight footprint and maximum processing efficiency.
-
----
+I am the second developer of this project, working alongside the primary developer / owner **missiletechradar**.
